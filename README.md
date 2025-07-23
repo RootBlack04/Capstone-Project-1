@@ -32,6 +32,7 @@ This is a multi-page online resume, built with plain HTML, to practice semantic 
 
 ## 📁 Project Structure
 
+```bash
 CAPSTONE_PROJECT/
 ├── index.html
 ├── contact.html
@@ -41,6 +42,7 @@ CAPSTONE_PROJECT/
     └── images
         ├── image.png
         └── screencapture.png
+```
 
 ## ✨ Features
 
