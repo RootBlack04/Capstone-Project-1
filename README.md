@@ -24,7 +24,7 @@ This is a multi-page online resume, built with plain HTML, to practice semantic 
 
 ## 🚀 Live Demo
 
-[🔗 Click here to view the project online](https://YOUR_GITHUB_USERNAME.github.io/REPO_NAME/)
+[🔗 Click here to view the project online](https://rootblack04.github.io/Capstone-Project-1/)
 
 ## 📸 Preview
 
@@ -32,15 +32,15 @@ This is a multi-page online resume, built with plain HTML, to practice semantic 
 
 ## 📁 Project Structure
 
-.
+CAPSTONE_PROJECT/
 ├── index.html
 ├── contact.html
 ├── hobbies.html
-├── asset/
-│ └── images/
-│ └── image.png
-│ └── screencapture.png
-└── README.md
+├── README.md
+└── asset
+    └── images
+        ├── image.png
+        └── screencapture.png
 
 ## ✨ Features
 
